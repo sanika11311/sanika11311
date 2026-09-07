@@ -1,157 +1,130 @@
-# 👩‍💻 Hi, I'm Sanika Pawar!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sanika+Pawar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React.js;Full+Stack+Developer+%26+Problem+Solver;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing SVG" />
 
-### 🚀 Aspiring Software Developer | Java | Full Stack Development | React.js
+  <p align="center">
+    <strong>🚀 Aspiring Software Developer | Java | Full Stack Development | React.js</strong>
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+React.js+%7C+Spring+Boot;Full+Stack+Developer;Problem+Solver;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/sanika-pawar-0a4b5a299/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sanikapawar145@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/sanika11311">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanika11311&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I am an aspiring **Software Developer** passionate about building practical, user-friendly, and reliable software applications.
-
-I have a strong foundation in **Java, C, C++, Python, JavaScript, HTML, CSS, React.js, Spring Boot, Node.js, MySQL, and Firebase**.
-
-🎓 I am currently pursuing a **Bachelor of Computer Science Engineering** at **D. Y. Patil School of Engineering and Management, Kolhapur (2023–2027)**.
-
-💡 I enjoy transforming ideas into functional applications and solving real-world problems through technology.
-
-🌱 I am continuously improving my skills in **Full Stack Development, Data Structures & Algorithms, Cloud Computing, and emerging technologies**.
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sanika11311&label=Profile%20Views&color=00C7FF&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👩‍💻 About Me
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-### 🗄️ Database & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- 🎓 Pursuing a **B.E. in Computer Science & Engineering** at **D. Y. Patil School of Engineering and Management, Kolhapur** *(2023–2027)*.
+- 💻 Passionate about building practical, scalable, and user-centric web applications.
+- 💡 Strong foundation in **Object-Oriented Programming, Data Structures & Algorithms, and Full Stack Development**.
+- 🌱 Constantly learning and exploring **Cloud Computing, Scalable Systems, and Emerging Technologies**.
+- 💬 *"Building ideas into applications, one line of code at a time."*
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-### 📚 Library Management System
+<div align="center">
 
-A software application designed to simplify and automate library operations.
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend" /> |
+| **Database & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database" /> |
+| **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /> |
 
-**Features:**
-
-- 📖 Book record management
-- 👥 Member record management
-- 🔄 Book issue and return operations
-- 🔍 Search functionality
-- 📊 Automated record management
-
-The system reduces manual record keeping and makes book and member information easier to manage.
+</div>
 
 ---
 
-### 🏛️ Shravya E-Guide
+### 🚀 Featured Projects
 
-A technology-based tourism guide designed to provide visitors with authentic information about historical monuments.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Library Management System</h3>
+      <p>A software application designed to simplify and automate library operations, reducing manual record-keeping.</p>
+      <ul>
+        <li>📖 Book and Member record management</li>
+        <li>🔄 Issue & Return workflow tracking</li>
+        <li>🔍 Real-time search & automated data logging</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sanika11311">
+          <img src="https://img.shields.io/badge/View_Project-00C7FF?style=flat-square&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ Shravya E-Guide</h3>
+      <p>An intelligent tourism guide delivering authentic historical monument information via interactive multimedia.</p>
+      <ul>
+        <li>📍 Geolocation-based triggers</li>
+        <li>🎧 Immersive audio narration</li>
+        <li>🥽 Virtual Reality (VR) animated previews</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/sanika11311">
+          <img src="https://img.shields.io/badge/View_Project-00C7FF?style=flat-square&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-The application provides information through **audio and animated VR experiences** when users reach the geographical location of a monument.
+#### 🌐 Other Repositories
 
-**Key Concepts:**
-
-- 📍 Geolocation
-- 🎧 Audio-based information
-- 🥽 Virtual Reality
-- 🏛️ Monument information
-- 📱 Interactive tourism experience
-
-The goal of this project is to make historical and tourism information more accessible and engaging.
-
----
-
-## 🌐 Other GitHub Projects
-
-Some of my other projects include:
-
-| Project | Description |
-|--------|-------------|
-| 📄 **My-Resume** | Personal resume website |
-| 🧮 **Calculator** | Web-based calculator |
-| 📝 **RegisterForm** | Registration form interface |
-| ✅ **To-Do-List** | Task management application |
-| 🔃 **SortableFilterable** | Sortable and filterable web interface |
-| 🖼️ **Gallery** | Web gallery project |
-
----
-
-## 🏆 Achievements & Certifications
-
-🥇 **1st Place — Frontend Arena 2026**  
-National Level Innovation Hackathon – Viksit Bharat
-
-🥈 **Second Place — Capstone Project 2023**
-
-📜 **NPTEL Elite Certification**  
-Object-Oriented Programming
-
-💻 **Java Development Internship — Codveda**
-
-☕ **Java Full Stack Developer Program — Eduskills**
-
----
-
-## 💼 Experience
-
-### ☕ Java Development Intern — Codveda
-
-I completed a Java Development Internship at Codveda, where I gained practical experience in Java-based software development and improved my programming skills through hands-on work.
-
-### 💻 Java Full Stack Developer — Eduskills
-
-I completed a Java Full Stack Developer program from Eduskills, strengthening my knowledge of frontend development, backend development, and full-stack application development.
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| 📄 **My-Resume** | Personal portfolio and resume web showcase | [View](https://github.com/sanika11311/My-Resume) |
+| 🧮 **Calculator** | Interactive, clean web-based calculator | [View](https://github.com/sanika11311/Calculator) |
+| 📝 **RegisterForm** | Responsive user registration interface with validation | [View](https://github.com/sanika11311/RegisterForm) |
+| ✅ **To-Do-List** | Efficient task management and tracking application | [View](https://github.com/sanika11311/To-Do-List) |
+| 🔃 **SortableFilterable** | Dynamic dataset filtering and sorting web component | [View](https://github.com/sanika11311/SortableFilterable) |
+| 🖼️ **Gallery** | Responsive media gallery interface | [View](https://github.com/sanika11311/Gallery) |
 
 ---
 
-## 🧠 Computer Science Skills
+### 🏆 Achievements & Certifications
 
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Software Development Life Cycle
-- Problem Solving
-- Database Management
-- Full Stack Development
-- Software Testing & Debugging
+- 🥇 **1st Place** — *Frontend Arena 2026* (National Level Innovation Hackathon – Viksit Bharat)
+- 🥈 **Second Place** — *Capstone Project 2023*
+- 📜 **NPTEL Elite Certification** — *Object-Oriented Programming (Java)*
+- 💼 **Java Development Internship** — *Codveda Technologies*
+- 🎓 **Java Full Stack Developer Program** — *Eduskills Foundation*
 
 ---
 
-## 🏗️ My Development Approach
+### 💼 Work Experience
+
+#### ☕ Java Development Intern — **Codveda**
+- Developed modular, maintainable Java backend logic and services.
+- Gained hands-on experience in debugging, code optimization, and industry-standard workflows.
+
+#### 💻 Java Full Stack Developer Trainee — **Eduskills**
+- Built end-to-end full-stack architectures integrating React frontends with Java backends and databases.
+- Applied software engineering best practices, MVC architecture, and API design.
+
+---
+
+### 🏗️ Architecture & Philosophy
+
+<details open>
+<summary><b>📐 Full-Stack Architecture Workflow</b></summary>
+<br/>
 
 ```text
         💡 Problem Identification
@@ -160,94 +133,14 @@ I completed a Java Full Stack Developer program from Eduskills, strengthening my
                   ↓
              🎨 System Design
                   ↓
-          🌐 Frontend Development
+          🌐 Frontend Development (React.js / HTML / CSS)
                   ↓
-          ⚙️ Backend Development
+          ⚙️ Backend Development (Java / Spring Boot / Node.js)
                   ↓
-          🗄️ Database Integration
+          🗄️ Database Integration (MySQL / Firebase)
                   ↓
           🧪 Testing & Debugging
                   ↓
              🚀 Deployment
                   ↓
           🔄 Continuous Improvement
-
-🧩 Full-Stack Development
-                  👩‍💻
-             Sanika Pawar
-                  │
-        ┌─────────┴─────────┐
-        ↓                   ↓
-   🎨 Frontend          ⚙️ Backend
-        │                   │
-   HTML / CSS          Spring Boot
-   JavaScript          Node.js
-   React.js            Java
-        │                   │
-        └─────────┬─────────┘
-                  ↓
-            🗄️ Database
-                  │
-           MySQL / Firebase
-                  ↓
-           🚀 Web Application
-
-📊 My Learning Philosophy
-       📚 Learn
-          ↓
-       🛠️ Build
-          ↓
-       🧪 Test
-          ↓
-       🔧 Improve
-          ↓
-       🤝 Collaborate
-          ↓
-       💡 Innovate
-
-💭 My Development Philosophy
-
-"Building ideas into applications, one line of code at a time." 🚀
-
-🔮 Future Goals
-
-I aim to continue growing as a software developer by exploring:
-
-🤖 Artificial Intelligence & Machine Learning
-☁️ Cloud Computing
-🏗️ Scalable Full-Stack Applications
-🔐 Secure Software Development
-📱 Modern Web & Mobile Applications
-🧠 Advanced Data Structures & Algorithms
-🚀 Emerging Software Technologies
-
-My long-term goal is to build reliable, scalable, secure, and user-friendly software solutions that solve real-world problems.
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanika11311&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Sanika's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanika11311&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sanika11311&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanika11311&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" /> </p>
-📫 Connect With Me
-<p align="center"> <a href="mailto:sanikapawar145@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/sanika11311"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sanika-pawar-0a4b5a299/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
-🌟 Let's Build Something Amazing!
-
-I am interested in collaborating on:
-
-💻 Web Development Projects
-☕ Java Applications
-⚛️ React Projects
-🚀 Full-Stack Applications
-🧠 Problem-Solving Projects
-🏆 Hackathons
-🌱 Open-Source Projects
-
-If you have an interesting project or idea, feel free to connect with me! 🤝
-
-<p align="center">
-💙 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and connect with me!
-
-</p>
