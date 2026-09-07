@@ -205,9 +205,12 @@ I completed a Java Full Stack Developer program from Eduskills, strengthening my
           ↓
        💡 Innovate
 
+💭 My Development Philosophy
+
 "Building ideas into applications, one line of code at a time." 🚀
 
 🔮 Future Goals
+
 I aim to continue growing as a software developer by exploring:
 
 🤖 Artificial Intelligence & Machine Learning
@@ -217,17 +220,19 @@ I aim to continue growing as a software developer by exploring:
 📱 Modern Web & Mobile Applications
 🧠 Advanced Data Structures & Algorithms
 🚀 Emerging Software Technologies
+
 My long-term goal is to build reliable, scalable, secure, and user-friendly software solutions that solve real-world problems.
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanika11311&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanika11311&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanika11311&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Sanika's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanika11311&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </p>
 🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sanika11311&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=sanika11311&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanika11311&theme=tokyo-night&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanika11311&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" /> </p>
 📫 Connect With Me
-<p align="center"> <a href="mailto:sanikapawar145@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sanika11311"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sanika-pawar-0a4b5a299/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:sanikapawar145@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/sanika11311"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sanika-pawar-0a4b5a299/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 🌟 Let's Build Something Amazing!
+
 I am interested in collaborating on:
 
 💻 Web Development Projects
@@ -237,8 +242,12 @@ I am interested in collaborating on:
 🧠 Problem-Solving Projects
 🏆 Hackathons
 🌱 Open-Source Projects
+
+If you have an interesting project or idea, feel free to connect with me! 🤝
+
 <p align="center">
 💙 Thanks for visiting my profile!
+
 ⭐ Feel free to explore my repositories and connect with me!
 
-</p> ```
+</p>
