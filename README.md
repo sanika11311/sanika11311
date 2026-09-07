@@ -2,7 +2,7 @@
 
 An aspiring **Software Developer** passionate about building practical, user-friendly, and reliable software applications. Sanika has a strong foundation in **Java, C, C++, Python, JavaScript, HTML, CSS, React.js, Spring Boot, Node.js, MySQL, and Firebase**, with an interest in developing full-stack applications and solving real-world problems through technology.
 
-She is currently pursuing a **Bachelor of Computer Science Engineering at D. Y. Patil School of Engineering and Management, Kolhapur (2023–2027)**. Her development journey combines frontend design, backend development, database management, and software engineering practices.
+I am currently pursuing a **Bachelor of Computer Science Engineering at D. Y. Patil School of Engineering and Management, Kolhapur (2023–2027)**. Her development journey combines frontend design, backend development, database management, and software engineering practices.
 
 ---
 
