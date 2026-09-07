@@ -26,7 +26,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Pursuing a **B.E. in Computer Science & Engineering** at **D. Y. Patil School of Engineering and Management, Kolhapur** *(2023–2027)*.
+- 🎓 Pursuing a **BTech in Computer Science & Engineering** at **D. Y. Patil School of Engineering and Management, Kolhapur** *(2023–2027)*.
 - 💻 Passionate about building practical, scalable, and user-centric web applications.
 - 💡 Strong foundation in **Object-Oriented Programming, Data Structures & Algorithms, and Full Stack Development**.
 - 🌱 Constantly learning and exploring **Cloud Computing, Scalable Systems, and Emerging Technologies**.
