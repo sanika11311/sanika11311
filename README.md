@@ -1,221 +1,173 @@
-👩‍💻 About Me
-I am an aspiring Software Developer passionate about building practical, user-friendly, and reliable software applications. I have a strong foundation in Java, C, C++, Python, JavaScript, HTML, CSS, React.js, Spring Boot, Node.js, MySQL, and Firebase. I am particularly interested in developing full-stack applications and solving real-world problems through technology.
+# 👩‍💻 Hi, I'm Sanika Pawar!
 
-I am currently pursuing a Bachelor of Computer Science Engineering at D. Y. Patil School of Engineering and Management, Kolhapur (2023–2027). My development journey combines frontend design, backend development, database management, and software engineering practices.
+### 🚀 Aspiring Software Developer | Java | Full Stack Development | React.js
 
-🚀 Featured Projects
-I have worked on several software projects that demonstrate my ability to transform ideas into functional and practical applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+React.js+%7C+Spring+Boot;Full+Stack+Developer;Problem+Solver;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-📚 Library Management System
-I developed a Library Management System to simplify and automate various library operations.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanika11311&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Key Features:
+---
 
-📖 Book record management
-👥 Member record management
-🔄 Book issue and return operations
-🔍 Search functionality
-📊 Automated record management
-The system helps improve library efficiency by reducing manual record keeping and making book and member information easier to manage.
+## 👩‍💻 About Me
 
-🏛️ Shravya E-Guide
-I developed Shravya E-Guide, a technology-based tourism guide designed to help visitors access authentic information about historical monuments.
+I am an aspiring **Software Developer** passionate about building practical, user-friendly, and reliable software applications.
 
-The application provides information through audio and animated VR formats when users reach the geographical location of a monument.
+I have a strong foundation in **Java, C, C++, Python, JavaScript, HTML, CSS, React.js, Spring Boot, Node.js, MySQL, and Firebase**.
 
-Key Technologies & Concepts:
+🎓 I am currently pursuing a **Bachelor of Computer Science Engineering** at **D. Y. Patil School of Engineering and Management, Kolhapur (2023–2027)**.
 
-📍 Geolocation
-🎧 Audio-based information
-🥽 Virtual Reality
-🏛️ Monument information
-📱 Interactive tourism experience
-Through this project, I focused on making historical and tourism information more accessible, engaging, and interactive for visitors.
+💡 I enjoy transforming ideas into functional applications and solving real-world problems through technology.
 
-🌐 GitHub Projects
-My GitHub profile contains multiple web-development projects that showcase my practical experience with frontend and web technologies.
+🌱 I am continuously improving my skills in **Full Stack Development, Data Structures & Algorithms, Cloud Computing, and emerging technologies**.
 
-Some of my projects include:
+---
 
-📄 My-Resume – Personal resume website
-🧮 Calculator – Web-based calculator
-📝 RegisterForm – Registration form interface
-✅ To-Do-List – Task management application
-🔃 SortableFilterable – Sortable and filterable web interface
-🖼️ Gallery – Web gallery project
-These projects have helped me strengthen my understanding of frontend development, user interfaces, JavaScript, and practical software implementation.
+## 🛠️ Tech Stack
 
-🛠️ Technical Skills
-💻 Programming Languages
-Java
-C
-C++
-Python
-JavaScript
-🌐 Frontend Development
-HTML
-CSS
-JavaScript
-React.js
-⚙️ Backend Development
-Spring Boot
-Node.js
-Java
-🗄️ Database & Cloud
-MySQL
-Firebase
-🧠 Computer Science
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+
+A software application designed to simplify and automate library operations.
+
+**Features:**
+
+- 📖 Book record management
+- 👥 Member record management
+- 🔄 Book issue and return operations
+- 🔍 Search functionality
+- 📊 Automated record management
+
+The system reduces manual record keeping and makes book and member information easier to manage.
+
+---
+
+### 🏛️ Shravya E-Guide
+
+A technology-based tourism guide designed to provide visitors with authentic information about historical monuments.
+
+The application provides information through **audio and animated VR experiences** when users reach the geographical location of a monument.
+
+**Key Concepts:**
+
+- 📍 Geolocation
+- 🎧 Audio-based information
+- 🥽 Virtual Reality
+- 🏛️ Monument information
+- 📱 Interactive tourism experience
+
+The goal of this project is to make historical and tourism information more accessible and engaging.
+
+---
+
+## 🌐 Other GitHub Projects
+
+Some of my other projects include:
+
+| Project | Description |
+|--------|-------------|
+| 📄 **My-Resume** | Personal resume website |
+| 🧮 **Calculator** | Web-based calculator |
+| 📝 **RegisterForm** | Registration form interface |
+| ✅ **To-Do-List** | Task management application |
+| 🔃 **SortableFilterable** | Sortable and filterable web interface |
+| 🖼️ **Gallery** | Web gallery project |
+
+---
+
+## 🏆 Achievements & Certifications
+
+🥇 **1st Place — Frontend Arena 2026**  
+National Level Innovation Hackathon – Viksit Bharat
+
+🥈 **Second Place — Capstone Project 2023**
+
+📜 **NPTEL Elite Certification**  
 Object-Oriented Programming
-Data Structures & Algorithms
-Software Development Life Cycle
-Problem Solving
-My technical skill set allows me to work across different areas of software development, from designing user interfaces to developing backend services and integrating databases.
 
-🏗️ My Development Approach
-I follow a structured software development approach when working on projects:
+💻 **Java Development Internship — Codveda**
 
-Problem Identification
-↓
-Requirement Analysis
-↓
-System Design
-↓
-Frontend Development
-↓
-Backend Development
-↓
-Database Integration
-↓
-Testing & Debugging
-↓
-Deployment
-↓
-Continuous Improvement
+☕ **Java Full Stack Developer Program — Eduskills**
 
-My understanding of the Software Development Life Cycle (SDLC) helps me build structured, maintainable, and reliable applications.
+---
 
-🧩 Full-Stack Development
-My technical profile covers both frontend and backend development.
+## 💼 Experience
 
-             👩‍💻 Sanika Pawar
-                    │
-        ┌───────────┴───────────┐
-        ↓                       ↓
-   🎨 Frontend              ⚙️ Backend
-        │                       │
- HTML / CSS                 Spring Boot
- JavaScript                 Node.js
- React.js                   Java
-        │                       │
-        └───────────┬───────────┘
-                    ↓
-              🗄️ Database
-                    │
-             MySQL / Firebase
-                    ↓
-             🚀 Web Application
+### ☕ Java Development Intern — Codveda
 
-This combination allows me to work across different stages of application development, from creating user interfaces to developing backend services and integrating databases.
+I completed a Java Development Internship at Codveda, where I gained practical experience in Java-based software development and improved my programming skills through hands-on work.
 
-🏆 Achievements & Certifications
-I have demonstrated my technical capabilities through competitions, certifications, and industry programs.
+### 💻 Java Full Stack Developer — Eduskills
 
-🥇 1st Place — Frontend Arena 2026
-I secured 1st Place in Frontend Arena 2026, conducted as part of the National Level Innovation Hackathon – Viksit Bharat.
+I completed a Java Full Stack Developer program from Eduskills, strengthening my knowledge of frontend development, backend development, and full-stack application development.
 
-🥈 Second Place — Capstone Project
-I secured Second Place in the Capstone Project 2023.
+---
 
-📜 NPTEL Certification
-I earned an Elite Certification in Object-Oriented Programming from NPTEL, strengthening my understanding of object-oriented programming concepts.
+## 🧠 Computer Science Skills
 
-💼 Industry Experience
-☕ Java Development Intern — Codveda
-I completed a Java Development Internship at Codveda, where I gained practical exposure to Java-based software development and strengthened my programming skills through hands-on experience.
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Software Development Life Cycle
+- Problem Solving
+- Database Management
+- Full Stack Development
+- Software Testing & Debugging
 
-💻 Java Full Stack Developer — Eduskills
-I completed a Java Full Stack Developer program from Eduskills, which helped me strengthen my knowledge of frontend development, backend development, and full-stack application development.
+---
 
-🧠 Soft Skills
-Along with my technical knowledge, I have developed strong interpersonal and professional skills, including:
+## 🏗️ My Development Approach
 
-🧩 Problem Solving
-⏱️ Time Management
-🤝 Team Collaboration
-🎨 Creativity
-These skills help me work effectively in collaborative software-development environments and approach challenges with a practical mindset.
-
-🎓 Education
-Bachelor of Computer Science Engineering
-D. Y. Patil School of Engineering and Management
-Kasaba Bawada, Kolhapur
-2023 – 2027
-
-Higher Secondary Certificate
-Vidyamandir Junior College
-Ishwarpur
-2022 – 2023
-
-Secondary School Certificate
-Krantisigh Nana Patil Vidyalay
-Bhavaninagar
-2020 – 2021
-
-🔮 My Future Goals
-I aim to continue growing as a software developer by exploring and developing my skills in:
-
-🤖 Artificial Intelligence & Machine Learning
-☁️ Cloud Computing
-🏗️ Scalable Full-Stack Applications
-🔐 Secure Software Development
-📱 Modern Web & Mobile Applications
-🧠 Advanced Data Structures & Algorithms
-🚀 Emerging Software Technologies
-My long-term goal is to build software solutions that are reliable, scalable, user-friendly, and capable of solving real-world problems.
-
-📊 My Development Philosophy
-I believe in learning through practical implementation:
-
-Learn
-↓
-Build
-↓
-Test
-↓
-Improve
-↓
-Collaborate
-↓
-Innovate
-
-Every project gives me an opportunity to strengthen my technical knowledge, improve my problem-solving abilities, and understand how technology can be used to solve practical challenges.
-
-👩‍💻 A Little More About Me
-"Building ideas into applications, one line of code at a time."
-
-I am an aspiring Software Developer with a strong interest in frontend development, Java, full-stack development, and problem solving. I enjoy working on practical projects and continuously improving my technical skills through projects, certifications, internships, and hackathons.
-
-My GitHub profile reflects my hands-on development journey through multiple web-development projects, including my resume website, calculator, registration form, to-do list, sortable/filterable interface, and gallery.
-
-📫 Connect With Me
-GitHub: sanika11311
-Email: sanikapawar145@gmail.com
-LinkedIn: sanika-pawar-0a4b5a299
-📈 GitHub
-Repositories: 9
-Projects: 0
-Stars: 0
-My GitHub currently contains multiple public projects focused primarily on web development, including my resume, calculator, registration form, to-do list, sortable/filterable interface, and gallery.
-
-🌟 Let's Build Something Amazing
-I am interested in collaborating on:
-
-💻 Web Development Projects
-☕ Java Applications
-⚛️ React Projects
-🚀 Full-Stack Applications
-🧠 Problem-Solving Projects
-🏆 Hackathons
-🌱 Open-Source Projects
-📄 License
-The projects published on my profile are maintained by me. Individual repositories may contain their own licenses and usage conditions.
+```text
+        💡 Problem Identification
+                  ↓
+          📋 Requirement Analysis
+                  ↓
+             🎨 System Design
+                  ↓
+          🌐 Frontend Development
+                  ↓
+          ⚙️ Backend Development
+                  ↓
+          🗄️ Database Integration
+                  ↓
+          🧪 Testing & Debugging
+                  ↓
+             🚀 Deployment
+                  ↓
+          🔄 Continuous Improvement
